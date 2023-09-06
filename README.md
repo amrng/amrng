@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Amr Elnagdy</h1>
 <h3 align="center">MEARN stack developer from Egypt</h3>
 
-- 🔭 I’m currently working on [LAB day2](https://github.com/amrng/LabDay2.git)
+- 🔭 I’m currently learning Nodejs and Express
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
