@@ -5,7 +5,7 @@
 
 - 📫 How to reach me **amr.ng21@gmail.com**
 
-<h3 align="left">Connect with me:</h3> <h4>00201278698944</h5>
+<h3 style:"display: inline-block" align="left">Connect with me:</h3> <h4 style:"display: inline-block">00201278698944</h4>
 <p align="left">
 <a href="https://linkedin.com/in/amr elnagdy" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="amr elnagdy" height="30" width="40" /></a>
 </p>
