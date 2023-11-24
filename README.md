@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Amr Elnagdy</h1>
-<h3 align="center">MEARN stack developer from Egypt</h3>
+<h3 align="center">Frontend Developer</h3>
 
-- 🌱 I’m currently learning **React**
+- 🌱 I’m currently looking for Job
 
 - 📫 How to reach me **amr.ng21@gmail.com**
 
